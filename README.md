@@ -1,0 +1,1 @@
+# array_elements_multiplication
